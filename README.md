@@ -12,4 +12,4 @@ A continuación se detallan los notebooks en el repositorio.
 
 * *graficador_root*: Lee un archivo root y genera imágenes de los CCDs en formato fits o png.
 
-* *leer_datos_connie*: Lee datos del experimento CONNIE en formato root.
+* *leer_datos_connie*: Lee datos del experimento CONNIE en formato root y genera imágens de los CCDs en formato fits.
