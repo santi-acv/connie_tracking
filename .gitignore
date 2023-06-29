@@ -1,0 +1,9 @@
+# jupyter notebook
+*.ipynb_checkpoints
+
+# datos binarios
+/datos_fits
+/datos_root
+
+# venv
+/connie
