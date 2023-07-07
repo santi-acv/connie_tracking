@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scipy
+sklearn
+uproot
+astropy
+tqdm
